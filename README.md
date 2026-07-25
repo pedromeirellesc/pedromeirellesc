@@ -48,22 +48,6 @@ Plataforma que centraliza shows de plataformas de ticketing brasileiras (Sympla,
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromeirellesc&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pedromeirellesc&theme=tokyonight&hide_border=true&locale=pt_BR)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromeirellesc&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedromeirellesc&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-meirelles-carrion/)
